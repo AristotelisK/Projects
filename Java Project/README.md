@@ -1,4 +1,4 @@
-![Anaptiksi2017-2018-omada5](/brainstormLogo.png)
+![Projects/tree/master/Java%20Project](/brainstormLogo.png)
 
 # Project Title
 Ομάδα 5/ Brainstorm - JavaController
@@ -48,11 +48,11 @@ SettingsActivity έχουμε υλοποιήσει το πεδίο για συμ
 * Android Devices:Samsung s6 Edge(7.0), Samsung j5(6.0)
 
 # Screenshots 
-![Anaptiksi2017-2018-omada5](/JavaController1.jpg)
-![Anaptiksi2017-2018-omada5](/JavaController2.jpg)
-![Anaptiksi2017-2018-omada5](/JavaController3.jpg)
-![Anaptiksi2017-2018-omada5](/MainActivity.jpg)
-![Anaptiksi2017-2018-omada5](/SettingsActivity.jpg)
+![Projects/tree/master/Java%20Project](/JavaController1.jpg)
+![Projects/tree/master/Java%20Project](/JavaController2.jpg)
+![Projects/tree/master/Java%20Project](/JavaController3.jpg)
+![Projects/tree/master/Java%20Project](/MainActivity.jpg)
+![Projects/tree/master/Java%20Project](/SettingsActivity.jpg)
 
 # Links
 Result Settings Activity  https://stackoverflow.com/questions/10407159/how-to-manage-startactivityforresult-on-android
