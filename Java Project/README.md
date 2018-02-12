@@ -48,7 +48,7 @@ SettingsActivity έχουμε υλοποιήσει το πεδίο για συμ
 * Android Devices:Samsung s6 Edge(7.0), Samsung j5(6.0)
 
 # Screenshots 
-![alt text](https://github.com/AristotelisK/Projects/tree/master/Java%20Project)
+![alt text](https://github.com/AristotelisK/Projects/blob/master/Java%20Project/JavaController1.jpg)
 ![Projects/Java Project](/JavaController2.jpg)
 ![Projects/Java Project](/JavaController3.jpg)
 ![Projects/Java Project](/MainActivity.jpg)
