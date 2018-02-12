@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidClient</string>
+    <string name="hintipport">example: 192.168.1.1:1883</string>
+    <string name="hintperiod">example: 5 sec</string>
+    <string name="textbla">Apply changes</string>
+    <string name="enternewip">Enter new IP</string>
+    <string name="cat">cat</string>
+    <string name="puppy">puppy</string>
+    <string name="cow">cow</string>
+    <string name="ChooseSound">Choose Sound</string>
+    <string name="Volume">Volume</string>
+</resources>
