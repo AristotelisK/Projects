@@ -1,4 +1,4 @@
-![Projects/Java Project](/brainstormLogo.png)
+![Projects/Java Project](https://github.com/AristotelisK/Projects/blob/master/Java%20Project/brainstormLogo.png)
 
 # Project Title
 Brainstorm - JavaController
@@ -48,11 +48,11 @@ SettingsActivity έχουμε υλοποιήσει το πεδίο για συμ
 * Android Devices:Samsung s6 Edge(7.0), Samsung j5(6.0)
 
 # Screenshots 
-![alt text](https://github.com/AristotelisK/Projects/blob/master/Java%20Project/JavaController1.jpg)
-![Projects/Java Project](/JavaController2.jpg)
-![Projects/Java Project](/JavaController3.jpg)
-![Projects/Java Project](/MainActivity.jpg)
-![Projects/Java Project](/SettingsActivity.jpg)
+![Projects/Java Project](https://github.com/AristotelisK/Projects/blob/master/Java%20Project/JavaController1.jpg)
+![Projects/Java Project](https://github.com/AristotelisK/Projects/blob/master/Java%20Project/JavaController1.jpg)
+![Projects/Java Project](https://github.com/AristotelisK/Projects/blob/master/Java%20Project/JavaController3.jpg)
+![Projects/Java Project](https://github.com/AristotelisK/Projects/blob/master/Java%20Project/MainActivity.jpg)
+![Projects/Java Project](https://github.com/AristotelisK/Projects/blob/master/Java%20Project/SettingsActivity.jpg)
 
 # Links
 Result Settings Activity  https://stackoverflow.com/questions/10407159/how-to-manage-startactivityforresult-on-android
