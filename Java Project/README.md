@@ -1,7 +1,7 @@
 ![Projects/Java Project](/brainstormLogo.png)
 
 # Project Title
-Ομάδα 5/ Brainstorm - JavaController
+Brainstorm - JavaController
 
 # Brainstorm
 Έχουμε δημιουργήσει δυο Activity το MainActivity και το SettingsActivity.
@@ -48,7 +48,7 @@ SettingsActivity έχουμε υλοποιήσει το πεδίο για συμ
 * Android Devices:Samsung s6 Edge(7.0), Samsung j5(6.0)
 
 # Screenshots 
-![Projects/Java Project](/JavaController1.jpg)
+![alt text](https://github.com/AristotelisK/Projects/tree/master/Java%20Project)
 ![Projects/Java Project](/JavaController2.jpg)
 ![Projects/Java Project](/JavaController3.jpg)
 ![Projects/Java Project](/MainActivity.jpg)
